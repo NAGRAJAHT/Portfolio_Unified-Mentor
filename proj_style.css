@@ -1,0 +1,16 @@
+#imgbrd {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 20%;
+}
+.scl1, .barcap{
+    border-radius: 10px;
+    border: solid 2px black;
+    font-size: 20px;
+    margin-top: 0%;
+    text-align: left;
+    font-weight: bold;
+    color: red;
+    font-style: oblique;
+}
